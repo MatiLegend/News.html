@@ -82,6 +82,7 @@ a{
                 font-weight: 300;
                 text-align: center;
                 line-height: 1.6;
+                padding: 0px 30px;
             }
     .section{
         background: #f7f7f7;
@@ -119,14 +120,17 @@ a{
             h3{
                 color: #fff;
                 font-size: 13px;
-                padding: 10px 0;
+                padding: 0px 0 10px 10px;
                 margin-top: -80px;
             }
             h2{
                 font-size: 20px;
                 text-transform: uppercase;
-                padding: 0px 0 10px 0;
+                padding: 0px 0 10px 10px;
                 color: #fff;
+            }
+            p{
+                padding: 25px 12px 5px 12px;
             }
             .navegacion{
                 background: #000;
